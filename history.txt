@@ -1,0 +1,38 @@
+1.0.0
+======
+7.9.2007
+---------
++ Output, Generate, Question Count, Answer Count
+
+8.9.2007
+---------
++ Randomize
++ File, Help, About, About Dialog
+* Slight adjusments in form layout
++ Application icon
++ Upper Case
+
+9.9.2007
+---------
++ More info in About Dialog
++ Saves and loads its position
++ Counts have limits (Question: 1 - 5000, Answer: 1 - 26)
++ Saves and loads input values
+* Access keys for Counts
++ Help Contents
++ Licence Agreement
+
+1.0.1
+======
++ Added Help Contents and Licence Agreement icons
+* Help Contents change
+
+1.0.2
+======
+10.9.2007
+----------
+* About link color
+* Links in Help Contents and Licence Agreement have tooltips
+* Init common controls
+* Help Contents status bar styled
+* Licence Agreement text border styled
